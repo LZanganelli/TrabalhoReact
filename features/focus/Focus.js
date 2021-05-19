@@ -39,7 +39,7 @@ const Focus = ( { addSubject }) => {
     return(
         <View style={styles.container}>
             <View style={styles.titleContainer}>
-                <Text style={styles.title}>NÃ£o posso procrastinar:</Text>
+                <Text style={styles.title}>Não posso procrastinar:</Text>
                 <View style={styles.inputContainer}>
                   <TextInput 
                     style={{flex:1, marginRight: 10}}

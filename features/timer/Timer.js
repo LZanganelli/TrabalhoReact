@@ -59,6 +59,7 @@ const Timer =({ focusSubject }) =>{
         setIsStarted(false);
     }
     
+    //  valeu fezao
 
     return(
     <View style={styles.container}>
